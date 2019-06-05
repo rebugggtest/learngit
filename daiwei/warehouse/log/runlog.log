@@ -1,0 +1,417 @@
+﻿2019-05-22 10:20:12,417 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:20:12,435 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:20:22,044 test_add_delete.py[line:50] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:20:22,090 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:20:22,091 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:20:22,199 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:20:22,253 loginView.py[line:26] INFO input code：1
+2019-05-22 10:20:22,293 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:20:22,356 loginView.py[line:30] INFO login finished 
+2019-05-22 10:20:22,356 loginView.py[line:32] INFO check_login
+2019-05-22 10:20:24,145 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:20:32,945 test_add_delete.py[line:77] INFO ===标书费新增成功===
+2019-05-22 10:20:35,276 test_add_delete.py[line:88] INFO ===标书费搜索成功===
+2019-05-22 10:20:38,835 test_add_delete.py[line:105] INFO ===标书费删除成功===
+2019-05-22 10:20:38,865 test_add_delete.py[line:112] INFO 批量删除前共有数据684条
+2019-05-22 10:20:41,201 test_add_delete.py[line:122] INFO 批量删除后共有数据683条
+2019-05-22 10:20:42,201 test_add_delete.py[line:126] INFO ===标书费批量删除成功===
+2019-05-22 10:20:43,290 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:20:44,867 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:20:48,186 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:20:48,186 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:20:55,247 test_export_all.py[line:24] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:20:55,248 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:20:55,249 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:20:55,391 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:20:55,460 loginView.py[line:26] INFO input code：1
+2019-05-22 10:20:55,506 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:20:55,559 loginView.py[line:30] INFO login finished 
+2019-05-22 10:20:55,559 loginView.py[line:32] INFO check_login
+2019-05-22 10:20:56,530 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:21:00,873 test_export_all.py[line:40] INFO 当前模块共有数据683条
+2019-05-22 10:21:04,306 test_export_all.py[line:48] INFO 导出表数据的行数为684
+2019-05-22 10:21:06,307 test_export_all.py[line:52] INFO 导出全部成功
+2019-05-22 10:21:06,319 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:21:07,497 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:21:11,113 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:21:11,113 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:21:18,374 test_export_current.py[line:24] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:21:18,375 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:21:18,375 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:21:18,536 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:21:18,592 loginView.py[line:26] INFO input code：1
+2019-05-22 10:21:18,637 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:21:18,697 loginView.py[line:30] INFO login finished 
+2019-05-22 10:21:18,697 loginView.py[line:32] INFO check_login
+2019-05-22 10:21:19,505 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:21:23,804 test_export_current.py[line:40] INFO 当前页共有数据10条
+2019-05-22 10:21:26,906 test_export_current.py[line:48] INFO 导出表数据的行数为11
+2019-05-22 10:21:28,906 test_export_current.py[line:52] INFO 标书费导出当前成功
+2019-05-22 10:21:28,919 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:21:30,242 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:21:33,786 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:21:33,786 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:21:41,197 test_export_current_openpyxl.py[line:24] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:21:41,199 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:21:41,200 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:21:41,355 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:21:41,429 loginView.py[line:26] INFO input code：1
+2019-05-22 10:21:41,492 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:21:41,594 loginView.py[line:30] INFO login finished 
+2019-05-22 10:21:41,595 loginView.py[line:32] INFO check_login
+2019-05-22 10:21:42,379 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:21:46,729 test_export_current_openpyxl.py[line:40] INFO 当前页共有数据10条
+2019-05-22 10:21:49,844 test_export_current_openpyxl.py[line:48] INFO 导出表数据的行数为11
+2019-05-22 10:21:51,844 test_export_current_openpyxl.py[line:52] INFO 标书费导出当前成功
+2019-05-22 10:21:51,855 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:21:53,094 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:21:56,653 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:21:56,655 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:22:03,678 test_import.py[line:21] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:22:03,679 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:22:03,679 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:22:03,800 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:22:03,861 loginView.py[line:26] INFO input code：1
+2019-05-22 10:22:03,921 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:22:03,977 loginView.py[line:30] INFO login finished 
+2019-05-22 10:22:03,977 loginView.py[line:32] INFO check_login
+2019-05-22 10:22:04,823 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:22:09,113 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:22:10,278 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:22:13,902 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:22:13,903 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:22:20,821 test_search_modify.py[line:33] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:22:20,822 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:22:20,822 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:22:20,960 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:22:21,035 loginView.py[line:26] INFO input code：1
+2019-05-22 10:22:21,076 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:22:21,130 loginView.py[line:30] INFO login finished 
+2019-05-22 10:22:21,131 loginView.py[line:32] INFO check_login
+2019-05-22 10:22:21,992 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:22:35,921 test_search_modify.py[line:67] INFO ===标书费金额修改成功===
+2019-05-22 10:22:36,029 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:22:37,258 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:22:40,955 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:22:40,955 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:22:49,077 test_add_delete.py[line:52] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:22:49,078 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:22:49,078 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:22:49,262 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:22:49,343 loginView.py[line:26] INFO input code：1
+2019-05-22 10:22:49,396 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:22:49,479 loginView.py[line:30] INFO login finished 
+2019-05-22 10:22:49,480 loginView.py[line:32] INFO check_login
+2019-05-22 10:22:50,416 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:22:59,763 test_add_delete.py[line:81] INFO ===保证金新增成功===
+2019-05-22 10:23:02,078 test_add_delete.py[line:92] INFO ===保证金搜索成功===
+2019-05-22 10:23:05,564 test_add_delete.py[line:109] INFO ===保证金删除成功===
+2019-05-22 10:23:05,620 test_add_delete.py[line:116] INFO 批量删除前共有数据572条
+2019-05-22 10:23:07,996 test_add_delete.py[line:126] INFO 批量删除后共有数据571条
+2019-05-22 10:23:08,997 test_add_delete.py[line:130] INFO ===保证金批量删除成功===
+2019-05-22 10:23:10,108 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:23:11,308 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:23:15,008 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:23:15,008 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:23:22,431 test_export_all.py[line:24] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:23:22,432 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:23:22,432 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:23:22,590 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:23:22,671 loginView.py[line:26] INFO input code：1
+2019-05-22 10:23:22,730 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:23:22,806 loginView.py[line:30] INFO login finished 
+2019-05-22 10:23:22,806 loginView.py[line:32] INFO check_login
+2019-05-22 10:23:23,676 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:23:27,995 test_export_all.py[line:40] INFO 当前模块共有数据571条
+2019-05-22 10:23:31,356 test_export_all.py[line:48] INFO 导出表数据的行数为572
+2019-05-22 10:23:33,356 test_export_all.py[line:52] INFO 保证金导出全部成功
+2019-05-22 10:23:33,361 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:23:34,525 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:23:38,121 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:23:38,122 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:23:45,330 test_export_current.py[line:24] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:23:45,331 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:23:45,331 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:23:45,439 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:23:45,497 loginView.py[line:26] INFO input code：1
+2019-05-22 10:23:45,542 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:23:45,618 loginView.py[line:30] INFO login finished 
+2019-05-22 10:23:45,618 loginView.py[line:32] INFO check_login
+2019-05-22 10:23:46,312 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:23:50,656 test_export_current.py[line:40] INFO 当前页共有数据10条
+2019-05-22 10:23:53,769 test_export_current.py[line:48] INFO 导出表数据的行数为11
+2019-05-22 10:23:55,770 test_export_current.py[line:52] INFO 保证金导出当前成功
+2019-05-22 10:23:55,779 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:23:57,012 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:24:00,653 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:24:00,653 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:24:07,991 test_import.py[line:41] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:24:07,991 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:24:07,991 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:24:08,111 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:24:08,187 loginView.py[line:26] INFO input code：1
+2019-05-22 10:24:08,256 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:24:08,328 loginView.py[line:30] INFO login finished 
+2019-05-22 10:24:08,329 loginView.py[line:32] INFO check_login
+2019-05-22 10:24:09,058 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:24:13,367 test_import.py[line:55] INFO 导入前当前页共有数据571条
+2019-05-22 10:24:15,842 test_import.py[line:66] INFO 系统即将执行Excel写入...
+2019-05-22 10:24:15,875 test_import.py[line:80] INFO 写入完成，即将上传
+2019-05-22 10:24:24,416 test_import.py[line:96] INFO 导入后当前页共有数据572条
+2019-05-22 10:24:25,418 test_import.py[line:100] INFO ===保证金导入成功===
+2019-05-22 10:24:32,155 test_import.py[line:121] INFO 删除后当前页共有数据571条
+2019-05-22 10:24:33,156 test_import.py[line:125] INFO ===导入数据删除成功===
+2019-05-22 10:24:34,160 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:24:35,323 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:24:38,986 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:24:38,987 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:24:45,953 test_search_modify.py[line:33] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:24:45,953 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:24:45,954 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:24:46,078 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:24:46,138 loginView.py[line:26] INFO input code：1
+2019-05-22 10:24:46,182 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:24:46,237 loginView.py[line:30] INFO login finished 
+2019-05-22 10:24:46,237 loginView.py[line:32] INFO check_login
+2019-05-22 10:24:46,989 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:25:00,614 test_search_modify.py[line:67] INFO ===保证金 金额修改成功===
+2019-05-22 10:25:00,721 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:25:01,937 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:25:05,532 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:25:05,533 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:25:12,699 test_eventGzl_export_all.py[line:26] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:25:12,700 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:25:12,701 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:25:12,846 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:25:12,910 loginView.py[line:26] INFO input code：1
+2019-05-22 10:25:12,955 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:25:13,012 loginView.py[line:30] INFO login finished 
+2019-05-22 10:25:13,012 loginView.py[line:32] INFO check_login
+2019-05-22 10:25:13,908 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:25:25,385 test_eventGzl_export_all.py[line:48] INFO 当前模块共有数据48条
+2019-05-22 10:25:28,540 test_eventGzl_export_all.py[line:56] INFO 导出表数据的行数为49
+2019-05-22 10:25:30,540 test_eventGzl_export_all.py[line:60] INFO 事件工作量查询导出全部成功
+2019-05-22 10:25:30,545 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:25:31,728 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:25:35,374 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:25:35,376 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:25:44,205 test_eventGzl_export_current.py[line:27] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:25:44,206 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:25:44,206 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:25:44,374 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:25:44,458 loginView.py[line:26] INFO input code：1
+2019-05-22 10:25:44,506 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:25:44,571 loginView.py[line:30] INFO login finished 
+2019-05-22 10:25:44,571 loginView.py[line:32] INFO check_login
+2019-05-22 10:25:45,906 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:25:58,594 test_eventGzl_export_current.py[line:50] INFO 当前页共有数据10条
+2019-05-22 10:26:01,708 test_eventGzl_export_current.py[line:58] INFO 导出表数据的行数为11
+2019-05-22 10:26:03,708 test_eventGzl_export_current.py[line:62] INFO 事件工作量查询导出当前成功
+2019-05-22 10:26:03,721 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:26:05,314 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:26:08,650 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:26:08,651 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:26:15,765 test_eventGzl_search.py[line:24] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:26:15,767 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:26:15,768 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:26:15,901 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:26:15,974 loginView.py[line:26] INFO input code：1
+2019-05-22 10:26:16,023 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:26:16,077 loginView.py[line:30] INFO login finished 
+2019-05-22 10:26:16,077 loginView.py[line:32] INFO check_login
+2019-05-22 10:26:16,895 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:26:29,614 test_eventGzl_search.py[line:46] INFO 事件工作量查询成功
+2019-05-22 10:26:30,620 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:26:31,890 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:26:35,999 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:26:36,000 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:26:43,447 test_personnelGzl_export_all.py[line:27] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:26:43,448 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:26:43,449 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:26:43,587 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:26:43,646 loginView.py[line:26] INFO input code：1
+2019-05-22 10:26:43,694 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:26:43,794 loginView.py[line:30] INFO login finished 
+2019-05-22 10:26:43,794 loginView.py[line:32] INFO check_login
+2019-05-22 10:26:44,688 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:26:58,380 test_personnelGzl_export_all.py[line:51] INFO 当前模块共有数据100条
+2019-05-22 10:27:01,852 test_personnelGzl_export_all.py[line:59] INFO 导出表数据的行数为101
+2019-05-22 10:27:03,854 test_personnelGzl_export_all.py[line:63] INFO 人员工作量查询导出全部成功
+2019-05-22 10:27:03,859 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:27:05,081 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:27:08,945 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:27:08,945 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:27:17,481 test_personnelGzl_export_current.py[line:28] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:27:17,482 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:27:17,482 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:27:17,764 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:27:17,940 loginView.py[line:26] INFO input code：1
+2019-05-22 10:27:18,060 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:27:18,142 loginView.py[line:30] INFO login finished 
+2019-05-22 10:27:18,143 loginView.py[line:32] INFO check_login
+2019-05-22 10:27:19,058 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:27:33,804 test_personnelGzl_export_current.py[line:53] INFO 当前页共有数据10条
+2019-05-22 10:27:36,953 test_personnelGzl_export_current.py[line:61] INFO 导出表数据的行数为11
+2019-05-22 10:27:38,954 test_personnelGzl_export_current.py[line:65] INFO 人员工作量查询导出当前成功
+2019-05-22 10:27:38,965 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:27:40,214 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:27:44,198 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:27:44,200 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:27:51,280 test_add_delete.py[line:45] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:27:51,281 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:27:51,281 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:27:51,428 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:27:51,571 loginView.py[line:26] INFO input code：1
+2019-05-22 10:27:51,626 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:27:51,688 loginView.py[line:30] INFO login finished 
+2019-05-22 10:27:51,689 loginView.py[line:32] INFO check_login
+2019-05-22 10:27:52,559 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:28:03,026 test_add_delete.py[line:64] INFO 新增前共有数据73条
+2019-05-22 10:28:09,076 test_add_delete.py[line:85] INFO 新增后共有数据74条
+2019-05-22 10:28:10,076 test_add_delete.py[line:89] INFO 新工作量数据维护新增成功
+2019-05-22 10:28:14,612 test_add_delete.py[line:106] INFO 删除后共有数据73条
+2019-05-22 10:28:15,613 test_add_delete.py[line:110] INFO 新工作量数据维护删除成功
+2019-05-22 10:28:16,669 test_add_delete.py[line:121] INFO 新增前共有数据73条
+2019-05-22 10:28:22,574 test_add_delete.py[line:142] INFO 新增后共有数据74条
+2019-05-22 10:28:23,574 test_add_delete.py[line:146] INFO 新工作量数据维护新增成功
+2019-05-22 10:28:28,127 test_add_delete.py[line:164] INFO 批量删除后共有数据73条
+2019-05-22 10:28:29,129 test_add_delete.py[line:168] INFO 新工作量数据维护批量删除成功
+2019-05-22 10:28:30,137 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:28:31,344 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:28:35,461 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:28:35,461 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:28:42,777 test_batch_import.py[line:50] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:28:42,778 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:28:42,778 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:28:42,926 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:28:42,989 loginView.py[line:26] INFO input code：1
+2019-05-22 10:28:43,041 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:28:43,106 loginView.py[line:30] INFO login finished 
+2019-05-22 10:28:43,106 loginView.py[line:32] INFO check_login
+2019-05-22 10:28:43,921 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:28:54,304 test_batch_import.py[line:69] INFO 导入前当前页共有数据73条
+2019-05-22 10:28:56,687 test_batch_import.py[line:79] INFO 系统即将执行Excel写入...
+2019-05-22 10:28:56,710 test_batch_import.py[line:87] INFO 写入完成，即将上传
+2019-05-22 10:29:05,205 test_batch_import.py[line:104] INFO 导入后当前页共有数据76条
+2019-05-22 10:29:06,205 test_batch_import.py[line:108] INFO 新工作量数据维护批量导入成功
+2019-05-22 10:29:09,643 test_batch_import.py[line:128] INFO 新工作量数据维护批量导入失败
+2019-05-22 10:29:09,643 common_fun.py[line:42] INFO get 新工作量数据维护批量导入失败 screenshot
+2019-05-22 10:29:13,730 test_batch_import.py[line:146] INFO 删除后当前页共有数据73条
+2019-05-22 10:29:14,731 test_batch_import.py[line:150] INFO ===导入数据删除成功===
+2019-05-22 10:29:15,746 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:29:17,447 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:29:20,796 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:29:20,797 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:29:27,877 test_export_all.py[line:25] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:29:27,878 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:29:27,878 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:29:28,001 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:29:28,076 loginView.py[line:26] INFO input code：1
+2019-05-22 10:29:28,130 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:29:28,186 loginView.py[line:30] INFO login finished 
+2019-05-22 10:29:28,187 loginView.py[line:32] INFO check_login
+2019-05-22 10:29:29,057 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:29:39,398 test_export_all.py[line:44] INFO 当前模块共有数据73条
+2019-05-22 10:29:42,541 test_export_all.py[line:52] INFO 导出表数据的行数为74
+2019-05-22 10:29:44,543 test_export_all.py[line:56] INFO 新工作量数据维护导出全部成功
+2019-05-22 10:29:44,548 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:29:45,747 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:29:49,574 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:29:49,574 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:29:56,947 test_serach_modify.py[line:25] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:29:56,948 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:29:56,948 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:29:57,111 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:29:57,173 loginView.py[line:26] INFO input code：1
+2019-05-22 10:29:57,220 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:29:57,276 loginView.py[line:30] INFO login finished 
+2019-05-22 10:29:57,276 loginView.py[line:32] INFO check_login
+2019-05-22 10:29:58,129 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:30:15,827 test_serach_modify.py[line:54] INFO 新工作量数据维护修改失败
+2019-05-22 10:30:15,827 common_fun.py[line:42] INFO get 新工作量数据维护修改失败 screenshot
+2019-05-22 10:30:17,344 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:30:18,556 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:30:22,200 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:30:22,201 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:30:29,435 test_export_current.py[line:24] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:30:29,436 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:30:29,437 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:30:29,613 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:30:29,681 loginView.py[line:26] INFO input code：1
+2019-05-22 10:30:29,724 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:30:29,778 loginView.py[line:30] INFO login finished 
+2019-05-22 10:30:29,778 loginView.py[line:32] INFO check_login
+2019-05-22 10:30:30,579 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:30:35,335 test_export_current.py[line:40] INFO 当前页共有数据10条
+2019-05-22 10:30:38,455 test_export_current.py[line:48] INFO 导出表数据的行数为11
+2019-05-22 10:30:40,456 test_export_current.py[line:52] INFO 巡线记录导出当前成功
+2019-05-22 10:30:40,459 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:30:41,697 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:30:45,498 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:30:45,498 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:30:53,429 test_operate.py[line:27] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:30:53,430 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:30:53,430 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:30:53,568 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:30:53,664 loginView.py[line:26] INFO input code：1
+2019-05-22 10:30:53,756 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:30:53,882 loginView.py[line:30] INFO login finished 
+2019-05-22 10:30:53,883 loginView.py[line:32] INFO check_login
+2019-05-22 10:30:54,697 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:31:04,065 test_operate.py[line:49] INFO 删除前共有数据419条
+2019-05-22 10:31:10,410 test_operate.py[line:63] INFO 删除后共有数据418条
+2019-05-22 10:31:11,411 test_operate.py[line:67] INFO ===巡线记录删除成功===
+2019-05-22 10:31:12,419 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:31:13,643 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:31:17,476 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:31:17,476 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:31:25,088 test_export_all.py[line:25] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:31:25,089 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:31:25,089 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:31:25,293 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:31:25,378 loginView.py[line:26] INFO input code：1
+2019-05-22 10:31:25,456 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:31:25,525 loginView.py[line:30] INFO login finished 
+2019-05-22 10:31:25,525 loginView.py[line:32] INFO check_login
+2019-05-22 10:31:26,362 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:31:31,118 test_export_all.py[line:41] INFO 当前模块共有数据0条
+2019-05-22 10:31:34,222 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:31:45,797 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:31:45,797 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:31:53,991 test_export_all.py[line:25] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:31:53,992 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:31:53,992 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:31:54,146 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:31:54,233 loginView.py[line:26] INFO input code：1
+2019-05-22 10:31:54,291 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:31:54,364 loginView.py[line:30] INFO login finished 
+2019-05-22 10:31:54,364 loginView.py[line:32] INFO check_login
+2019-05-22 10:31:55,544 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:32:00,231 test_export_all.py[line:41] INFO 当前模块共有数据0条
+2019-05-22 10:32:03,343 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:32:14,649 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:32:14,651 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:32:22,546 test_export_current.py[line:23] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:32:22,547 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:32:22,547 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:32:22,705 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:32:22,817 loginView.py[line:26] INFO input code：1
+2019-05-22 10:32:22,912 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:32:22,991 loginView.py[line:30] INFO login finished 
+2019-05-22 10:32:22,991 loginView.py[line:32] INFO check_login
+2019-05-22 10:32:23,956 loginView.py[line:42] INFO ===登录成功===
+2019-05-22 10:32:28,513 test_export_current.py[line:39] INFO 当前页共有数据0条
+2019-05-22 10:32:31,603 test_export_current.py[line:47] INFO 导出表数据的行数为1
+2019-05-22 10:32:33,604 test_export_current.py[line:51] INFO 线路管理导出当前成功
+2019-05-22 10:32:33,625 quitView.py[line:15] INFO ============quit============
+2019-05-22 10:32:34,878 myunit.py[line:21] INFO ======tearDown=====
+2019-05-22 10:32:38,727 myunit.py[line:15] INFO ======setUp=========
+2019-05-22 10:32:38,727 run_browser.py[line:16] INFO start run browser...
+2019-05-22 10:32:47,005 test_modify.py[line:29] INFO =========test_login_zhaobingcheng============
+2019-05-22 10:32:47,006 loginView.py[line:20] INFO ===============login===============
+2019-05-22 10:32:47,006 loginView.py[line:21] INFO input username:zhaobingcheng
+2019-05-22 10:32:47,181 loginView.py[line:24] INFO input password:a123456
+2019-05-22 10:32:47,256 loginView.py[line:26] INFO input code：1
+2019-05-22 10:32:47,306 loginView.py[line:28] INFO click loginBtn.
+2019-05-22 10:32:47,363 loginView.py[line:30] INFO login finished 
+2019-05-22 10:32:47,363 loginView.py[line:32] INFO check_login
